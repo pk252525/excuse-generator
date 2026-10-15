@@ -38,7 +38,7 @@ function App() {
       text: list[randomIndex],
       reason: reason,
       rating: 0,
-      status: 'oczekujaca'
+      status: 'oczekująca'
     }
 
     setCurrentExcuse(newExcuse)

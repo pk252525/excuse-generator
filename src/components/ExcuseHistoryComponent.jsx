@@ -37,7 +37,7 @@ function ExcuseHistoryComponent(props) {
                 </button>
                 <button
                   className="btn btn-sm btn-outline-warning"
-                  onClick={() => props.onChangeStatus(item.id, 'oczekujaca')}
+                  onClick={() => props.onChangeStatus(item.id, 'oczekująca')}
                 >
                   Oczekująca
                 </button>
